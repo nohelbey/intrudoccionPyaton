@@ -4,4 +4,4 @@ benvinguts al meu repositori de python
 
 ## Els mues programes
 
-- [Hello world](hello_world.py)
+- [problema1](bateria1.py)
