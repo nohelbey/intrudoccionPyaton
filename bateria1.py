@@ -22,3 +22,21 @@ print(f"El cuadrado de {numero} es: {cuadrado}")
 nombre = input("Introduce tu nombre: ")
 
 print(f"Hola {nombre}")
+
+
+# Programa que demana un pes en kg a l'usuari i retorna el mateix pes convertit en lliures.
+
+peso_kg = float(input("Introduce tu peso en kilogramos: "))
+
+peso_libras = peso_kg * 2.20462
+
+print(f"Tu peso en libras es: {peso_libras}")
+
+
+# Programa que demana una temperatura en graus Celsius a l'usuari i retorna la temperatura en graus Fahrenheit.
+
+temperatura_celsius = float(input("Introduce la temperatura en grados Celsius: "))
+
+temperatura_fahrenheit = temperatura_celsius * 9/5 + 32
+
+print(f"La temperatura en grados Fahrenheit es: {temperatura_fahrenheit}")
