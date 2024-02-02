@@ -15,3 +15,10 @@ numero = float(input("Introduce un número: "))
 cuadrado = numero ** 2
 
 print(f"El cuadrado de {numero} es: {cuadrado}")
+
+
+# Programa que pregunta el nom a l'usuari i retorna el text: "Hola X". On X és el nom de l'usuari.
+
+nombre = input("Introduce tu nombre: ")
+
+print(f"Hola {nombre}")
